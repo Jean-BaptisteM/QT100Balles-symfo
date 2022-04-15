@@ -1,6 +1,6 @@
 # QT100Balles-symfo
 
-![alt text](https://i.ibb.co/X3HBzjt/homepage.png)
+![alt text](https://i.ibb.co/Z1b8gDc/screen-qt100b.png)
 
 ## Technologies Utilisées
 
