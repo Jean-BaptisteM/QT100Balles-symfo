@@ -3,11 +3,7 @@
 ![alt text](https://i.ibb.co/Z1b8gDc/screen-qt100b.png)
 
 ## Technologies Utilisées
-
-Le site est développé via le framework Symfony en version 5.4.
-Le design est conçu avec la librairie Bootstrap pour la structure de base et le responsive. Auquel fut 
-ajouté du CSS personnalisé, ou encore la librairie animate.css pour le logo.
-Javascript a été utilisé pour les besoins de certaines fonctionnalités et les parties dynamiques du site.
+Le site est développé via le framework Symfony en version 5.4. Le design est conçu avec la librairie Bootstrap pour la structure de base et le responsive, auquel fut ajouté du CSS personnalisé. Javascript a été utilisé pour les besoins de certaines fonctionnalités et les parties dynamiques du site.
 <br><br>
 
 ![alt text](https://i.ibb.co/C1GTYSs/batman-fiche.png)
