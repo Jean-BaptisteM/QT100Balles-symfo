@@ -1,12 +1,12 @@
 # QT100Balles-symfo
 
-![alt text](https://i.ibb.co/Z1b8gDc/screen-qt100b.png)
+![screen-qt100b](https://i.ibb.co/Z1b8gDc/screen-qt100b.png)
 
 ## Technologies Utilisées
 Le site est développé via le framework Symfony en version 5.4. Le design est conçu avec la librairie Bootstrap pour la structure de base et le responsive, auquel fut ajouté du CSS personnalisé. Javascript a été utilisé pour les besoins de certaines fonctionnalités et les parties dynamiques du site.
 <br><br>
 
-![alt text](<img src="https://i.ibb.co/0Dbd6zV/batman-fiche.png" alt="batman-fiche" border="0" />)
+![batman-details](https://i.ibb.co/C1GTYSs/batman-fiche.png)
 
 ## Fonctionnalités
 * Design Responsive avec bootstrap
@@ -29,5 +29,5 @@ Le site est développé via le framework Symfony en version 5.4. Le design est c
 * page 404
 
 <br><br>
-![alt text](https://i.ibb.co/Z1DS8Nt/qt100balles-liste.png)
+![qt100b-list](https://i.ibb.co/Z1DS8Nt/qt100balles-liste.png)
 Lien du site : https://quandtavais100balles.herokuapp.com/
